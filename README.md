@@ -1,7 +1,7 @@
 # Zero-Touch-Provisioning
 Cisco ZTP on Catalyst 9300
 
-
+Please see the YouTube video tutorial https://youtu.be/sPGHvtK6M4g
 ZTP with Mario G.
 In this tutorial, I'm going to show you how to setup Cisco Zero Touch Provisioning (ZTP)
  
